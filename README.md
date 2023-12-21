@@ -1,0 +1,1 @@
+Code from a dataset at Inspiring Scotland. The Positive Destination and Shanarri Wellbeing consider factors relating to young peoples wellbeing from before and after reaching a positive outcome, such as employment. 
